@@ -1,21 +1,15 @@
 {
-  "name": "youtube-react",
+  "name": "React-Starter-Kit",
   "version": "0.0.0",
-  "description": "A personal Youtube channel using React/Flux and Firebase",
-  "author": "Matt Conrad <mmconrad@gmail.com>",
-  "contributors": [
-    {
-      "name": "Jake Obron",
-      "email": "jbobron@gmail.com"
-    }
-  ],
+  "description": "Get started with react fast!",
+  "author": "Jake Obron <jbobron@gmail.com>",
   "bin": {
     "module-name": "./bin/module-name"
   },
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/conrad/youtube-react"
+    "url": "https://github.com/jbobron/reactStarterKit"
   },
   "keywords": [],
   "dependencies": {
