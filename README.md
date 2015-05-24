@@ -7,3 +7,8 @@ Get started fast!
 4. run `npm install`
 5. run `gulp`
 5. open your index.html file located in your dist folder in your browser and see you application!
+
+
+NOTE:
+-only make edits to components in src, do not make edits to anything is dist
+-make sure you are opening index file in dist folder
