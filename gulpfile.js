@@ -16,7 +16,7 @@ gulp.task('browserify', function(){
 gulp.task('clean', function() {
   return gulp.src('./dist/**/*.*', {read: false}) // much faster
     .pipe(rimraf());
-})
+});
 
 gulp.task('copy', function(){
   gulp.src('src/index.html')
